@@ -47,7 +47,7 @@ Columns:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Sentiment-Analysis-Project.git
+   git clone https://github.com/payal-soni28/Twitter-Sentiment-analysis.git
 
 2. **Install Dependencies:**
 
